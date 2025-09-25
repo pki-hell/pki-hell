@@ -1,0 +1,8 @@
+baseURL: https://pki-hell.github.io/pki-hell/
+languageCode: en-us
+title: "pki-hell"
+module:
+  hugoVersion:
+    extended: true
+  imports:
+    - path: github.com/imfing/hextra

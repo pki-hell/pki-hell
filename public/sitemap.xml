@@ -2,10 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pki-hell/categories/</loc>
+    <loc>http://localhost:1313/pki-hell/inferno/</loc>
   </url><url>
-    <loc>http://localhost:1313/pki-hell/tags/</loc>
+    <loc>http://localhost:1313/pki-hell/inferno/limbo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/one/</loc>
   </url><url>
     <loc>http://localhost:1313/pki-hell/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/docs/pki-hell/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/treachery/one/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/violence/one/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/lust/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/two/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/treachery/two/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/violence/two/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/gluttony/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/three/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/treachery/three/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/violence/three/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/greed/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/four/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/treachery/four/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/five/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/wrath/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/heresy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/six/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/seven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/violence/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/eight/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/nine/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/treachery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/inferno/fraud/ten/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/tags/dante/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/docs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/tags/inferno/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/tags/pki/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pki-hell/tags/</loc>
   </url>
 </urlset>

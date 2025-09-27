@@ -6,3 +6,20 @@ module:
     extended: true
   imports:
     - path: github.com/imfing/hextra
+menu:
+  main:
+    - name: Docs
+      pageRef: /docs/pki-hell/
+      weight: 10
+    - name: Inferno
+      pageRef: /inferno/
+      weight: 20
+params:
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/pki-hell_logo_v2.svg
+      link: /pki-hell/
+      width: 180
+      height: 36

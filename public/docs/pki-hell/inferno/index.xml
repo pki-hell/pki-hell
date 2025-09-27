@@ -1,0 +1,247 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pki-hell – Inferno</title>
+    <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/</link>
+    <description>Recent content in Inferno on pki-hell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/pki-hell/docs/pki-hell/inferno/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Circle 1: Limbo</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/limbo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/limbo/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Circle 1: Limbo — The Unanchored&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The path descends from the dark wood into a wide plain wrapped in twilight. A castle rises in the distance, its walls strong, its towers tall, but its gates barred with silence. The air is hushed, heavy with longing. Within, voices speak wisdom, but none beyond the walls hear.&lt;/p&gt;
+&lt;p&gt;Virgil raises his hand.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;This is Limbo, the place of those who sought to be trusted, yet lacked the seal. They are not damned for malice, nor torn for betrayal — only denied. Their chains are incomplete, their anchors cut away. Thus, though noble, they wander here, untrusted forever.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You approach the castle walls. Through the barred gates you see figures holding glowing scrolls, each bearing knowledge, each carefully written. But none can pass them beyond the gate; each scroll fades into dust as it touches the bars.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Behold the self-signed,&amp;rdquo;&lt;/em&gt; Virgil says softly. &lt;em&gt;&amp;ldquo;They forged their own seals, but none bore witness. Their certs end in themselves, their trust circles back and dies. In solitude, they suffice — in isolation, they may serve. But no chain descends from them, and so no faith ascends to them. They are noble, but forever denied.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Further within, you see souls dragging chains across the plain. Each chain glows, but links are missing. The souls reach endlessly toward a radiant tower — but the gaps in their chains leave them grasping at shadows.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These bore intermediates, yet not the root. They served half the chain, but never the whole. They did not publish their intermediates, and so their certs failed in the hands of strangers. The chain was broken, and so the trust was lost. Now they wander here, pulling chains that will never complete.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Near the castle’s base lies a row of broken tablets. Each is etched faintly with words like &lt;code&gt;CN=Server&lt;/code&gt;, yet none carry SANs, none bear EKUs. The souls clutch them desperately, pleading for entry, but the guards do not move.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;And these denied purpose. Their certs lacked extensions, their SANs were empty, their EKUs void. No role could be known, no name could be trusted. They are not evil — but incomplete. And so they remain here, unheard, unseen, unanchored.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Virgil’s voice carries a note of sorrow.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Know this, my student: Limbo is the softest circle, yet it is cruelest still. These souls suffer not flame or frost, but silence. They cry out, yet none believe. For in PKI, to lack anchoring, chaining, or purpose is to be noble yet useless — and thus to wander forever in Limbo.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lust</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/lust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/lust/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Circle 2: Lust — The Storm of Secrets&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The descent narrows, the light dims, and you hear it before you see it: a roar like mountains tearing. A storm howls in the blackness, its winds carrying chains and torn fragments of glowing parchment. The air itself lashes at your skin as the storm surges past.&lt;/p&gt;
+&lt;p&gt;Virgil raises his cloak against the gale.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;This is the circle of Lust — not of flesh, but of secrets. Here are those who gave away what should have been guarded, who bound many hands to one key, who let passion for ease rule over discipline. They thought it harmless. But trust betrayed by desire is trust forever lost. And so the storm carries them, never still, never safe.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You glimpse souls in the whirlwind. Two figures cling desperately to each other, bound together by a single radiant private key. The wind jerks them apart; one slips, and the key is wrenched from both their hands, leaving them shrieking as they are flung into the darkness.&lt;/p&gt;
+&lt;p&gt;Virgil speaks, his tone sharp.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Behold the shared key — many lovers, one secret. As long as one faltered, all were betrayed. In life, admins shared root passwords, private certs, SSH keys, thinking convenience stronger than fidelity. But when the breach came, none could deny it, for none could prove it was not their hand. This is the fruit of their desire — a storm that never ends.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Further on, another soul clutches tightly to a key glowing with age. Its edges are cracked, its light dim. Yet still he clings, refusing to let it go. The storm howls, and with every gust the key splinters further, until it is dust in the wind.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These lusted for comfort, and so they never rotated. They feared the pain of change, clung to secrets long expired, long compromised. They let TLS die on the vine, they let API keys persist beyond reason. Now the wind tears the keys from their grip, again and again, showing them what they should have cast aside.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Then you see others flung naked through the gale, their hands reaching in vain for secrets scattered like ashes. Fragments of configuration files, lines of code, entire repos swirl through the storm, each glowing with private keys laid bare.&lt;/p&gt;
+&lt;p&gt;Virgil’s face hardens.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;And these are the indiscriminate — those who exposed secrets in public. They posted keys to code repositories, to logs, to open shares, careless as lovers who parade their desire. Once revealed, their secrets could never be reclaimed. Now the storm scatters them without end, a testament to their folly.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The wind presses against you, full of the stench of desperation. The storm itself feels alive, as if each gust were another soul’s failure made manifest.&lt;/p&gt;
+&lt;p&gt;Virgil leans close, his voice cutting through the roar.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Learn from what you see: never share what is meant to be singular. Never bind many hands to one key. Rotate without fear, for no secret may last forever. And never, never expose desire to the world. For those who lust for ease will find only the storm.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Gluttony</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/gluttony/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/gluttony/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Circle 3: Gluttony — The Mire of Excess&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The descent grows cold and wet. A foul stench rises as a ceaseless rain falls — not water, but a torrent of sodden scrolls, certificates inked and rotting in the storm. The ground beneath is a swamp of parchment and sludge, sucking at your feet. Souls lie half-buried, their bodies swollen and pale, their mouths filled with filth. Above them prowls a beast: &lt;strong&gt;Cerberus&lt;/strong&gt;, three heads, each gnashing at the sinners, tearing mouthfuls of flesh as punishment for their hunger.&lt;/p&gt;
+&lt;p&gt;Virgil gestures, his expression grim.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;This is the circle of Gluttony. Here lie those who gorged upon issuance, who flooded their realms with certs and attributes without measure. They thought abundance meant safety. But overfed trust grows sick, and now they lie wallowing in the waste of their excess.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You see a soul trying to rise, but his flesh is bloated with glowing certs pressed into his skin. Each movement tears another free, spilling chains of ink that melt into the muck. The rain pelts him with more scrolls, piling higher until he sinks beneath.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These issued without limit — thousands upon thousands of certificates, scattered without governance, without lifecycle. They sought to feast on abundance, but they birthed only sprawl. When compromise came, they could not revoke; when audit came, they could not count. Now their endless certs bury them as surely as mud.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Nearby, a soul claws at a pile of massive scrolls, each bearing the word &lt;strong&gt;CRL&lt;/strong&gt; in bold. The scrolls are so swollen they burst, spilling ink that smothers him. Each time he claws free, more scrolls fall from the rain, heavier still.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These glutted their revocations — CRLs bloated beyond reason, thousands of entries, published rarely, unreadable by clients. They thought length meant diligence, but it brought only latency, failure, collapse. Now their scrolls choke them, endless, useless, heavy as stone.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Another lies stretched across the mire, his body grotesquely tattooed. Names, domains, and roles are scrawled across his skin in glowing script — &lt;code&gt;CN=&lt;/code&gt;, &lt;code&gt;SAN=&lt;/code&gt;, &lt;code&gt;EKU=&lt;/code&gt; etched over and over until his flesh is illegible. He moans as Cerberus tears another strip of writing from his side.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These filled their certs with excess — SANs unbounded, EKUs unchecked, attributes piled on until the cert was no cert at all, but a grotesque charter of all things. They sought to give everything, and gave nothing. Now their flesh is covered in fields, forever illegible.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Deeper still, you see a soul bound in chains of cipher. His body is wrapped in endless encryption, layer upon layer, so tight that his chest cannot rise. He gasps silently as the weight crushes him down into the mire.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;And these wrapped all things in excess. Triple encryption, needless signatures, chains so redundant they suffocated their own use. They thought strength lay in piling cipher upon cipher. But security without restraint is not security — it is death. Now they suffocate in chains they themselves forged.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The storm grows heavier, drowning the cries in muck and sludge. The beast tears, the scrolls fall, the swamp consumes.&lt;/p&gt;
+&lt;p&gt;Virgil leans close, his words like iron.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Remember this: more is not more. To issue endlessly is to drown. To bloat revocation is to choke. To scrawl attributes without measure is to rot. And to over-encrypt is to suffocate. Balance is strength. Excess is Gluttony — and Gluttony is waste.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Greed</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/greed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/greed/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Circle 4: Greed — The Weights of Dominion&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The rain and sludge fade as the path winds down to a wide ring lit by dim fire. Across it, souls strain under immense weights of iron, shoving them endlessly in circles. When they collide, they hurl curses at one another, then turn and push again, trapped forever in their toil. Their faces are twisted with hunger — not for food, but for possession.&lt;/p&gt;
+&lt;p&gt;Virgil lifts his hand.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;This is the circle of Greed. Here are those who seized too much trust, who craved dominion over all names and domains, who sought to bind what could not be bound. They hoarded certs, they claimed all beneath their banners, they wasted as much as they amassed. Their hunger was endless, and so their toil is endless still.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;One soul heaves beneath a colossal scroll, the word &lt;code&gt;*.domain.com&lt;/code&gt; etched across it in fire. The scroll drags behind him, vast and ragged, and each step grinds him deeper into the stone. When he falters, demons lash him until he staggers onward.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Behold the wildcards,&amp;rdquo;&lt;/em&gt; Virgil says darkly. &lt;em&gt;&amp;ldquo;They were greedy to bind all subdomains with one cert, declaring all beneath their dominion. But their claim was folly, for within ‘all’ lurked their enemies, their shadows, their weakness. When the cert was compromised, every service fell with it. Now they bear its weight forever, heavy as their hunger.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Nearby, two groups of souls push against one another, their weights crashing in the middle of the ring. One hoards certs, vaulting endless stacks beneath them; the other issues wildly, scattering certs in waste. They collide, screaming at each other — &lt;em&gt;“Why hoard?”&lt;/em&gt; &lt;em&gt;“Why waste?”&lt;/em&gt; — then turn and repeat the cycle without end.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These are the hoarders and the wasters,&amp;rdquo;&lt;/em&gt; Virgil explains. &lt;em&gt;&amp;ldquo;Some locked certs away, issuing none, strangling their own trust. Others issued endlessly without restraint, flooding their realms in chaos. Both were greedy, though in opposite form. Both are punished here, locked in an argument that never ends.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Farther along, you see a soul crowned in iron, bearing chains engraved with names: &lt;code&gt;CN=&lt;/code&gt;, &lt;code&gt;OU=&lt;/code&gt;, &lt;code&gt;O=&lt;/code&gt;, hundreds wrapped around his neck. He clutches them desperately, his eyes wild. Each chain glows as if alive, then shatters, leaving him screaming. But new chains grow back in their place, and the cycle begins again.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These sought to control all attributes,&amp;rdquo;&lt;/em&gt; Virgil says, almost with pity. &lt;em&gt;&amp;ldquo;They demanded every name, every field, every domain extension, thinking ownership was safety. They chained themselves to false authority. But in the end, the chain breaks, and the greed consumes its master.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The sound of clashing weights echoes in the gloom, punctuated by curses, screams, and the lash of demons. The ring is a place of endless hunger, endless toil.&lt;/p&gt;
+&lt;p&gt;Virgil looks at you, his eyes grim.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Learn this: trust cannot be hoarded, nor can it be claimed in greed. To bind all beneath one banner is folly. To hoard certs is paralysis. To issue endlessly is chaos. Greed consumes itself, and those who sought dominion now roll its weight forever.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wrath</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/wrath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/wrath/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Circle 5: Wrath – The River Styx, Revocation Denied&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The river ahead boils with filth. A dark mire stretches as far as the eye can see, its waters thick with rage. On the surface, men and women claw at one another, snarling, tearing, their limbs slick with mud. Beneath the surface, others lie motionless, their mouths and eyes sealed, suffocated in silence.&lt;/p&gt;
+&lt;p&gt;Virgil’s voice cuts through the stink.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Here are the wrathful — who raged in life against revocation. They hurled lists of distrust, too vast, too late, expired before they could save a soul. Now they fling these broken scrolls at one another, forever unread, forever unheeded.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As you watch, one soul tears a fragment from a glowing list and hurls it across the mire. It lands in the mud, already rotting. Another soul scrambles to seize it, but the page has blackened and turned to sludge in his hands.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;A CRL too long is no lifeline, but an anchor. A list not updated is not trust, but poison. Their fury built nothing but outages, and so they drown in their own lists.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Virgil points lower, to the shapes trapped beneath the mire. You see only faint outlines, their mouths bubbling muck.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;And here the sullen lie — those who would not publish, who claimed revocation did not matter. They denied the very need to withdraw trust, and so they are denied breath forever. They lie unmoving, for they chose silence. They choke in the filth they left unchecked.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;One shadow rises just enough for you to glimpse a face — eyes wide with despair — before it slips beneath the mire again.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The stench of the swamp grows stronger as you walk along the bank. You notice broken posts sticking up from the mud — each carved with strange, decaying letters: &lt;code&gt;ldap://&lt;/code&gt;, &lt;code&gt;http://&lt;/code&gt;, addresses fading into nothingness.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Behold the rotting CDPs and dead OCSP responders. They thought to anchor revocation to weak shores, and when those shores fell, all trust withered. When the endpoints are unreachable, the path of validation collapses, and the message drowns here.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Virgil’s eyes burn as he looks across the swamp.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Mark this well, my student. Revocation is not debate, but duty. To neglect it is to poison your own river. To rage without reason is to drown in futility. To deny it is to be silenced in mud. All trust ends here, unless you learn to carry the lists with care, to refresh them in time, to anchor them where no flood can erase them.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Heresey</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/heresy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/heresy/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Circle 6: Heresy – The City of Dis&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The black gates groan shut behind you. Ahead stretches a city of fire, its streets lined with tombs that glow from within. Flames pour through cracks in the lids, and each scream rises like smoke into the sulfurous air.&lt;/p&gt;
+&lt;p&gt;Virgil walks slowly between the rows, gesturing with his staff.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Here lie the heretics of trust — those who mocked the order of the chain, who issued in arrogance, who configured without care. Their denials burned the faith of many, and so their bones burn here without end.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;One tomb bursts open, its lid glowing like iron fresh from the forge. Inside, a soul writhes, clutching a scroll marked: &lt;strong&gt;ENROLL = Domain Admin&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;This one carved his templates with reckless hand, granting crowns to peasants, power to all who asked. One request, and the kingdom fell. Now his tomb is sealed by the very permission he unleashed.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The lid slams shut, sparks spraying into the air.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Another row lies ahead, each tomb engraved with names once trusted in the world above: &lt;strong&gt;DigiNotar, Symantec, WoSign&lt;/strong&gt;. Their names glow red-hot, cracking, but never fading.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These are the false prophets of authority. They bore the title of Certificate Authority yet betrayed it, signing lies, issuing false chains. Each misissuance was a blasphemy, and so their tombs burn as warnings to all.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Virgil leads you past a smaller graveyard of tombs, where the flames sputter instead of roar. On their lids are etched malformed inscriptions: &lt;code&gt;ServerAuth&lt;/code&gt;, &lt;code&gt;CodeSigning&lt;/code&gt;, &lt;code&gt;ClientAuth&lt;/code&gt; — mismatched, incomplete, broken.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Here lie those who denied purpose itself — who set extensions falsely, who swore encryption when they meant signing, who declared usage where none belonged. Their certs confused, their authority mocked, they now smolder in endless error.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The flames flare briefly, illuminating the inscriptions, then gutter back down into embers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Finally, at the far edge of the cemetery, you see tombs cracked wide open. Fire spills across the ground, unchecked. Inside, shadows scramble and claw their way upward, flames clinging to them like oil.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;And here are those who opened the tombs of enrollment. Their templates bore no guard, no restriction; anyone could enter, anyone could claim a crown. Their gates became infernos, and now their tombs burn without boundary, their flames spilling forever outward.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Virgil turns to you, eyes reflecting the fire.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Mark this well, my student. Authority is not a gift to all, but a trust for the few. Templates must be guarded, purposes declared true, issuance performed with faith. Deny these truths, and you will lie here, sealed in flame, your certs burning with you.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Violence</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/violence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/violence/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Circle 7: Violence - The Rings&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The air grows hotter, the land harsher. You hear screams carried by a dry wind. Ahead lies a red river boiling with blood, its banks patrolled by demons with bows. Beyond it stretches a black forest, its trees twisted and writhing as though alive. And still farther, a desert of burning sand under a rain of fire, where souls writhe in agony, their flesh smoldering.&lt;/p&gt;
+&lt;p&gt;Virgil lifts his hand to each in turn.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fraud</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/fraud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/fraud/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Circle 8: Fraud — The Ten Ditches of Malebolge&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The land cracks open into a vast chasm, its depths carved into ten circling ditches, each bridged by jagged stone. The air is heavy with deceit; the very ground seems slick with lies. From each bolgia rise screams — some shrill, some muffled, some hissing with malice. Virgil raises his hand.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;This is Malebolge, the circle of fraud. Here are those who twisted trust for their gain, each punished in a ditch carved by their own deceit. Come — and learn how falsehood corrodes the chain as surely as fire corrodes the flesh.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Treachery</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Circle 9: Treachery — The Frozen Lake Cocytus&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The heat of Malebolge fades. The ground hardens beneath your feet, until even the air is brittle. A vast lake stretches out, frozen solid, its surface gleaming like black glass. Souls are trapped beneath the ice, their faces twisted in agony. No fire burns here, only the still death of trust.&lt;/p&gt;
+&lt;p&gt;Virgil’s voice is low, heavy with finality.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;This is Cocytus, the pit of treachery. Here are those who betrayed the deepest bonds — kin, country, benefactors, trust itself. In life, their lies froze faith; in death, they are frozen likewise, denied even the mercy of movement.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pki-hell – Treachery</title>
+    <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/</link>
+    <description>Recent content in Treachery on pki-hell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Traitors to Kin</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/one/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Round 1: Caina (Traitors to Kin)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Souls are buried up to their necks in the ice, their tears freezing to their faces.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These are those who betrayed their own domains — insiders who turned their access against their kin. They leaked internal roots, they exfiltrated intermediate keys, they planted backdoors. The family of trust relied on them, and they sold it out. Now they weep frozen tears, forever kinless.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Real world echo:&lt;/strong&gt; Insider admins leaking internal CA keys, or misusing enrollment rights.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Traitors to Country</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/two/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;&lt;strong&gt;Round 2: Antenora (Traitors to Country)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;round-2-antenora-traitors-to-country&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#round-2-antenora-traitors-to-country&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Deeper still, the ice swallows souls to the chin. Their mouths open in silent screams.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Here lie those who betrayed their companies, their nations, their ecosystems. They inserted rogue roots, colluded with state actors, turned authority to espionage. Their betrayal poisoned entire lands. Now their voices are frozen in their throats, silent as the trust they killed.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Real world echo:&lt;/strong&gt; Governments compelling rogue CAs (e.g., mistrusted state cert authorities).&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Traitors to Guests</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/three/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/three/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;&lt;strong&gt;Round 3: Ptolomea (Traitors to Guests)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;round-3-ptolomea-traitors-to-guests&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#round-3-ptolomea-traitors-to-guests&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The souls here lie supine beneath the ice, their faces upward, but their eyes sealed shut by frozen tears.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;These betrayed those who entrusted themselves as guests — the users who placed their faith in them. They ran CAs, but signed lies. They ran services, but let their certs rot. They betrayed the hospitality of trust, and so their eyes are frozen shut with tears they can never shed.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Real world echo:&lt;/strong&gt; Major CA compromises (DigiNotar, Symantec) — the betrayal of every relying party.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Traitors to Benefactors</title>
+      <link>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/four/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pki-hell/docs/pki-hell/inferno/treachery/four/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;&lt;strong&gt;Round 4: Judecca (Traitors to Benefactors)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;round-4-judecca-traitors-to-benefactors&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#round-4-judecca-traitors-to-benefactors&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;At the very center, the ice is thickest. Here lie the deepest traitors, wholly encased, twisted into grotesque shapes. Above them looms a vast shadow: Satan himself, three-faced, six-winged, gnawing forever on Judas, Brutus, and Cassius.&lt;/p&gt;
+&lt;p&gt;But in his hands are not men — they are &lt;strong&gt;roots&lt;/strong&gt;, vast glowing keys shattered in his grip.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Here is the death of all trust — root keys betrayed, stolen, compromised. Here lie the vendors who sold their ultimate seals, the custodians who forsook their charge, the very anchors of faith. Their treachery kills all chains, all signatures, all names. When the root is broken, nothing stands.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Virgil’s face is grim.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Thus the deepest treachery is not merely theft — it is betrayal of the benefactor, betrayal of the trust on which all rests. See Satan himself chewing root keys, and know this: once the anchor is devoured, no chain holds, no cert binds, no voice can be trusted again.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;The Death of Trust&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;The air is brittle with cold. The lake’s surface is smooth here, black glass stretching to infinity. Beneath it lie forms so contorted they are hardly human — each soul encased entirely in ice, their limbs twisted, their mouths locked in silent screams. The silence here is suffocating. No cries rise. Only the crack of shifting ice breaks the stillness.&lt;/p&gt;
+&lt;p&gt;Then the shadow falls.&lt;/p&gt;
+&lt;p&gt;Satan looms above, a horror vast beyond comprehension. Three faces, each weeping tears that freeze as they fall. Six wings, black as night, beating slowly, each gust carving shards of ice that scour the lake. His mouths gnash ceaselessly, but not upon men.&lt;/p&gt;
+&lt;p&gt;Between his teeth grind &lt;strong&gt;three colossal keys&lt;/strong&gt;, each glowing with unnatural light — roots of authority themselves, the anchors of trust for all above. He chews them to shards, swallows, and then new chains appear in his grasp, only to be devoured again.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Virgil’s voice is grave, almost drowned by the creak of the ice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Here lies the deepest treachery — not against man or king, but against trust itself. These are the root keepers who failed, the custodians who betrayed, the vendors who sold their crowns. They held the keys of the world, and they let them fall. Their treachery froze all things, for when the root is broken, the chain is dead, and no name may be believed again.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The ice groans beneath your feet. Through the blackness below, you see souls fused into the frozen mass, their eyes wide with horror. One clutches a fragment of a certificate chain, the links snapped; another holds a CRL turned to frost in his hand. All are locked forever in silence, for their betrayal left the world unable to speak truth again.&lt;/p&gt;
+&lt;p&gt;Virgil continues, his voice bitter with sorrow.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Understand, my student: a compromised leaf may be revoked, a broken template may be buried, an algorithm may be replaced. But when the root itself is devoured, there is no appeal, no higher anchor, no path to rebuild. All chains collapse, all signatures become ash. The entire edifice of trust drowns here in Cocytus.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;He gestures toward Satan, who raises one of the glowing roots to his mouth. Its inscription burns clear for a moment — &lt;strong&gt;Trusted Root Authority&lt;/strong&gt; — before his teeth shatter it into shards that scatter like frozen stars.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;So heavy is this sin that even hope cannot reach it. No chain can extend beyond a devoured root. The treachery of root compromise is the ultimate blasphemy: betrayal of every user, every system, every soul. And so they lie beneath the ice, not merely punished, but erased.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The cold gnaws at your bones, though you stand untouched. You feel the weight of it pressing on you — the thought that above, in the living world, all trust could collapse in an instant if one anchor falls.&lt;/p&gt;
+&lt;p&gt;Virgil whispers, almost to himself.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Guard the roots, child. Guard them as you would your life, for your life is written upon them. Should they fall, the ice will rise, and all the world will freeze in silence.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

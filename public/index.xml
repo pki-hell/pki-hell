@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pki-hell – Welcome to PKI-Hell</title>
+    <title>pki-hell – pki-hell</title>
     <link>http://localhost:1313/pki-hell/</link>
-    <description>Recent content in Welcome to PKI-Hell on pki-hell</description>
+    <description>Recent content on pki-hell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
